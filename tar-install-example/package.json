@@ -1,0 +1,8 @@
+{
+  "name": "dedupe-example",
+  "version": "1.0.0",
+  "dependencies": {
+    "file-dep": "file:./file",
+    "tar-dep": "file:tar/tar-1.0.0.tgz"
+  }
+}

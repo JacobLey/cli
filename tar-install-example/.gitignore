@@ -1,0 +1,4 @@
+**/node_modules
+**/*.tgz
+**/random.txt
+/package-lock.json
